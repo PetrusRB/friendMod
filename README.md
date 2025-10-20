@@ -8,9 +8,17 @@ Um bot amigável que protege você, minera minérios automaticamente e ajuda na 
 
 Para compilar o mod, execute:
 
+```bash
+  ./gradlew buildModJar
+```
+
 ### Testar o mod (Debug)
 
 Para rodar o mod no modo de teste:
+
+```bash
+  ./gradlew runClient
+```
 
 ## 👨🏾‍💻 Autores
 
