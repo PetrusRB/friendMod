@@ -1,6 +1,6 @@
 # 🤖 Friend
 
-Um bot amigável que protege você, minera minérios automaticamente e ajuda na construção.
+Um bot inteligente e amigável que protege você, minera minérios automaticamente e auxilia na construção, tornando sua experiência no Minecraft mais prática e segura.
 
 ## 🚀 Como usar
 
