@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["II ", "IS ", " R "],
+  "key": {
+    "I": { "item": "minecraft:iron_ingot" },
+    "S": { "item": "minecraft:stick" },
+    "R": { "item": "minecraft:red_dye" }
+  },
+  "result": {
+    "item": "friend:amiaxe",
+    "count": 1
+  }
+}

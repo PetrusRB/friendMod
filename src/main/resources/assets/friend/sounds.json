@@ -1,0 +1,18 @@
+{
+  "axe_kill": {
+    "sounds": [
+      {
+        "name": "friend:axe_kill",
+        "stream": false
+      }
+    ]
+  },
+  "gun_shot": {
+    "sounds": [
+      {
+        "name": "friend:gun_shot",
+        "stream": false
+      }
+    ]
+  }
+}
